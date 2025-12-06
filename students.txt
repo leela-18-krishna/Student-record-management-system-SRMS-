@@ -1,0 +1,7 @@
+1 sita 89.00
+2 karna 99.00
+3 leela 100.00
+5 rama 79.00
+6 lila 89.00
+7 narayana 86.00
+8 lakshmi 91.00
